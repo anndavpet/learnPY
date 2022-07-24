@@ -119,7 +119,7 @@ https://github.com/anndavpet/learnPY/blob/main/7_11_3.py
 
 <p>Результат работы декорированной функции отобразите на экране.</p></span></div>
 
-      <div class="step-text-wrapper">
+<div class="step-text-wrapper">
           <p class="step-text__limit-title">
             <strong>Sample Input<!---->:</strong>
           </p>
@@ -130,6 +130,5 @@ https://github.com/anndavpet/learnPY/blob/main/7_11_3.py
           <pre class="step-text__limit-value">python-eto-kruto!</pre>
 
 <!---->      </div>
-  </div>
 https://github.com/anndavpet/learnPY/blob/main/7_11_4.py
     <hr>
