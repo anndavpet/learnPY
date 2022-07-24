@@ -78,3 +78,27 @@ https://github.com/anndavpet/learnPY/blob/main/7_11_1.py
 https://github.com/anndavpet/learnPY/blob/main/7_11_2.py
     <hr>
     
+<div class="step-inner page-fragment">
+    <div id="ember3864" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><p><strong>7_11_3.py .</strong> Вводятся две строки из слов (слова записаны через пробел). Объявите функцию, которая преобразовывает эти две строки в два списка слов и возвращает эти списки.</p>
+
+<p>Определите декоратор для этой функции, который из двух списков формирует словарь, в котором ключами являются слова из первого списка, а значениями - соответствующие элементы из второго списка. Полученный словарь должен возвращаться при вызове декоратора.</p>
+
+<p>Примените декоратор к первой функции и вызовите ее для введенных строк. Результат (словарь d) отобразите на экране командой:</p>
+
+<p>print(*sorted(d.items()))</p></span></div>
+
+      <div class="step-text-wrapper">
+          <p class="step-text__limit-title">
+            <strong>Sample Input<!---->:</strong>
+          </p>
+          <pre class="step-text__limit-value">house river tree car
+дом река дерево машина</pre>
+          <p class="step-text__limit-title">
+            <strong>Sample Output<!---->:</strong>
+          </p>
+          <pre class="step-text__limit-value">('car', 'машина') ('house', 'дом') ('river', 'река') ('tree', 'дерево')</pre>
+
+<!---->      </div>
+https://github.com/anndavpet/learnPY/blob/main/7_11_3.py
+    <hr>
+    
