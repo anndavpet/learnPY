@@ -29,7 +29,7 @@ https://github.com/anndavpet/learnPY/blob/main/7_11_0.py
 
 <hr> 
 <div class="step-inner page-fragment">
-    <div id="ember2997" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><p><strong>7_11_1.py</strong>На вход программы поступает строка с названиями пунктов меню, записанные в одну строчку через пробел. Необходимо задать функцию с именем get_menu, которая преобразует эту строку в список из слов и возвращает этот список. Сигнатура функции, следующая:</p>
+    <div id="ember2997" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><p><strong>7_11_1.py </strong>На вход программы поступает строка с названиями пунктов меню, записанные в одну строчку через пробел. Необходимо задать функцию с именем get_menu, которая преобразует эту строку в список из слов и возвращает этот список. Сигнатура функции, следующая:</p>
 
 <p>def get_menu(s): ...</p>
 
