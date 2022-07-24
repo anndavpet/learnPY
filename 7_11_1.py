@@ -1,8 +1,9 @@
 def show_menu(func):
     def wrapper(s):
         res = func(s)
-        for key, value in enumerate(res):  
-            print(f"{key+1}. {value}")
+        for key, value in enumerate(res):
+            print(f"{key + 1}. {value}")
+
     return wrapper
 
 
