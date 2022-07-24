@@ -87,7 +87,7 @@ https://github.com/anndavpet/learnPY/blob/main/7_11_2.py
 
 <p>print(*sorted(d.items()))</p></span></div>
 
-      <div class="step-text-wrapper">
+<div class="step-text-wrapper">
           <p class="step-text__limit-title">
             <strong>Sample Input<!---->:</strong>
           </p>
