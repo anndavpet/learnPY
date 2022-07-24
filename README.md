@@ -75,6 +75,6 @@ https://github.com/anndavpet/learnPY/blob/main/7_11_1.py
           <pre class="step-text__limit-value">-5 3 4 8 10 11</pre>
 
 <!---->      </div>
-https://github.com/anndavpet/learnPY/blob/main/7_11_3.py
+https://github.com/anndavpet/learnPY/blob/main/7_11_2.py
     <hr>
     
