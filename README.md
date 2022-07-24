@@ -101,4 +101,35 @@ https://github.com/anndavpet/learnPY/blob/main/7_11_2.py
 <!---->      </div>
 https://github.com/anndavpet/learnPY/blob/main/7_11_3.py
     <hr>
-    
+    <div class="step-inner page-fragment">
+    <div id="ember4209" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><p><strong>Подвиг 5. </strong>Объявите функцию, которая принимает строку на кириллице и преобразовывает ее в латиницу, используя следующий словарь для замены русских букв на соответствующее латинское написание:</p>
+
+<pre><code class="hljs ebnf"><span class="hljs-attribute">t</span> = {<span class="hljs-string">'ё'</span>: <span class="hljs-string">'yo'</span>, <span class="hljs-string">'а'</span>: <span class="hljs-string">'a'</span>, <span class="hljs-string">'б'</span>: <span class="hljs-string">'b'</span>, <span class="hljs-string">'в'</span>: <span class="hljs-string">'v'</span>, <span class="hljs-string">'г'</span>: <span class="hljs-string">'g'</span>, <span class="hljs-string">'д'</span>: <span class="hljs-string">'d'</span>, <span class="hljs-string">'е'</span>: <span class="hljs-string">'e'</span>, <span class="hljs-string">'ж'</span>: <span class="hljs-string">'zh'</span>,
+&nbsp; &nbsp; &nbsp;<span class="hljs-string">'з'</span>: <span class="hljs-string">'z'</span>, <span class="hljs-string">'и'</span>: <span class="hljs-string">'i'</span>, <span class="hljs-string">'й'</span>: <span class="hljs-string">'y'</span>, <span class="hljs-string">'к'</span>: <span class="hljs-string">'k'</span>, <span class="hljs-string">'л'</span>: <span class="hljs-string">'l'</span>, <span class="hljs-string">'м'</span>: <span class="hljs-string">'m'</span>, <span class="hljs-string">'н'</span>: <span class="hljs-string">'n'</span>, <span class="hljs-string">'о'</span>: <span class="hljs-string">'o'</span>, <span class="hljs-string">'п'</span>: <span class="hljs-string">'p'</span>,
+&nbsp; &nbsp; &nbsp;<span class="hljs-string">'р'</span>: <span class="hljs-string">'r'</span>, <span class="hljs-string">'с'</span>: <span class="hljs-string">'s'</span>, <span class="hljs-string">'т'</span>: <span class="hljs-string">'t'</span>, <span class="hljs-string">'у'</span>: <span class="hljs-string">'u'</span>, <span class="hljs-string">'ф'</span>: <span class="hljs-string">'f'</span>, <span class="hljs-string">'х'</span>: <span class="hljs-string">'h'</span>, <span class="hljs-string">'ц'</span>: <span class="hljs-string">'c'</span>, <span class="hljs-string">'ч'</span>: <span class="hljs-string">'ch'</span>, <span class="hljs-string">'ш'</span>: <span class="hljs-string">'sh'</span>,
+&nbsp; &nbsp; &nbsp;<span class="hljs-string">'щ'</span>: <span class="hljs-string">'shch'</span>, <span class="hljs-string">'ъ'</span>: <span class="hljs-string">''</span>, <span class="hljs-string">'ы'</span>: <span class="hljs-string">'y'</span>, <span class="hljs-string">'ь'</span>: <span class="hljs-string">''</span>, <span class="hljs-string">'э'</span>: <span class="hljs-string">'e'</span>, <span class="hljs-string">'ю'</span>: <span class="hljs-string">'yu'</span>, <span class="hljs-string">'я'</span>: <span class="hljs-string">'ya'</span>}</code></pre>
+
+<p>Функция должна возвращать преобразованную строку. Замены делать без учета регистра (исходную строку перевести в нижний регистр - малые буквы). Все небуквенные символы ": ;.,_" превращать в символ '-' (дефиса).</p>
+
+<p>Определите декоратор для этой функции, который несколько подряд идущих дефисов, превращает в один дефис. Полученная строка должна возвращаться при вызове декоратора. (Сам декоратор на экран ничего выводить не должен).</p>
+
+<p>Примените декоратор к первой функции и вызовите ее для введенной строки s на кириллице:</p>
+
+<p><code>s = input()</code></p>
+
+<p>Результат работы декорированной функции отобразите на экране.</p></span></div>
+
+      <div class="step-text-wrapper">
+          <p class="step-text__limit-title">
+            <strong>Sample Input<!---->:</strong>
+          </p>
+          <pre class="step-text__limit-value">Python - это круто!</pre>
+          <p class="step-text__limit-title">
+            <strong>Sample Output<!---->:</strong>
+          </p>
+          <pre class="step-text__limit-value">python-eto-kruto!</pre>
+
+<!---->      </div>
+  </div>
+https://github.com/anndavpet/learnPY/blob/main/7_11_4.py
+    <hr>
