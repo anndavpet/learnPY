@@ -134,7 +134,7 @@ https://github.com/anndavpet/learnPY/blob/main/7_11_3.py
 <!---->      </div>
 https://github.com/anndavpet/learnPY/blob/main/7_11_4.py
     <hr>
-<div id="ember2049" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><p><strong>Подвиг 6. </strong>В программе задана функция filter_lst (см. программу ниже), которая отбирает элементы, переданного ей итерируемого объекта и возвращает сформированный кортеж значений.</p>
+<div id="ember2049" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><p><strong>7_8_4.py </strong>В программе задана функция filter_lst (см. программу ниже), которая отбирает элементы, переданного ей итерируемого объекта и возвращает сформированный кортеж значений.</p>
 
 <p>На вход программы поступает список целых чисел, записанных в одну строчку через пробел. Вызовите функцию filter_lst для формирования:</p>
 
