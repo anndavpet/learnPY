@@ -134,3 +134,34 @@ https://github.com/anndavpet/learnPY/blob/main/7_11_3.py
 <!---->      </div>
 https://github.com/anndavpet/learnPY/blob/main/7_11_4.py
     <hr>
+<div id="ember2049" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><p><strong>7_8_4.py </strong>В программе задана функция filter_lst (см. программу ниже), которая отбирает элементы, переданного ей итерируемого объекта и возвращает сформированный кортеж значений.</p>
+
+<p>На вход программы поступает список целых чисел, записанных в одну строчку через пробел. Вызовите функцию filter_lst для формирования:</p>
+
+<p>- кортежа из всех значений входного списка (передается в параметр it);<br>
+- кортежа только из отрицательных чисел;<br>
+- кортежа только из неотрицательных чисел (то есть, включая и 0);<br>
+- кортежа из чисел в диапазоне [3; 5]</p>
+
+<p>Каждый результат работы функции следует отображать с новой строки командой:</p>
+
+<p><code>print(*lst)</code></p>
+
+<p>где lst - список на возвращенный функцией&nbsp;filter_lst. Для отбора нужных значений формальному параметру key следует передавать соответствующие определения анонимной функции.<br>
+&nbsp;</p></span></div>
+
+<div class="step-text-wrapper">
+          <p class="step-text__limit-title">
+            <strong>Sample Input<!---->:</strong>
+          </p>
+          <pre class="step-text__limit-value">5 4 -3 4 5 -24 -6 9 0</pre>
+          <p class="step-text__limit-title">
+            <strong>Sample Output<!---->:</strong>
+          </p>
+          <pre class="step-text__limit-value">5 4 -3 4 5 -24 -6 9 0
+-3 -24 -6
+5 4 4 5 9 0
+5 4 4 5</pre>
+
+<!---->      </div>
+https://github.com/anndavpet/learnPY/blob/main/7_8_4.py
