@@ -1,4 +1,4 @@
-<h1>Here I solved all sorts of exercises from Sergey Balakirev</h1>
+<h1>Here I solved all sorts of exercises from Python Lessons or courses</h1>
 
 <div class="step-inner page-fragment">
     <div id="ember2978" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><p><strong>7_11_0.py</strong> Объявите функцию с именем get_sq, которая вычисляет площадь прямоугольника по двум параметрам: width и height - ширина и высота прямоугольника. И возвращает результат (сама ничего на экран не выводит). То есть, функция имеет сигнатуру:</p>
